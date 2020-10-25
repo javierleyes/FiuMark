@@ -2,3 +2,5 @@ pandas
 pandas-profiling
 matplotlib
 seaborn
+scikit-learn
+sklearn
